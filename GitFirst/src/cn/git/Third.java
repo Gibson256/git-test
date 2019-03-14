@@ -1,7 +1,7 @@
 package cn.git;
 
-public class First {
+public class Third {
     public static void main(String[] args) {
-        System.out.println("dev first");
+        System.out.println("dev third");
     }
 }
