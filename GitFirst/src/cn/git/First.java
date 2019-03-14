@@ -10,4 +10,8 @@ public class First {
         i+=5;
         System.out.println(i);
     }
+
+    public void tog(){
+        System.out.println("okokok");
+    }
 }
