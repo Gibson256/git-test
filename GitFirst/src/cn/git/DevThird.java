@@ -1,8 +1,7 @@
 package cn.git;
 
-public class Second {
+public class DevThird {
     public static void main(String[] args) {
-        System.out.println("master second");
+        System.out.println("dev third");
     }
-
 }
